@@ -1,0 +1,162 @@
+#header {
+    background-color: #213141;
+    width: 66%;
+    height: 95px;
+}
+
+h1 {
+    color: #fabd16;
+    text-align: center;
+    padding-top: 30px;
+}
+
+body {
+    background-image:image(bg.jpg);
+    background-color: #151414;
+    margin-left: 370px;
+    background-size: contain;
+    position: relative;
+}
+    
+#footer {
+    background-color: #323b3b;
+    width: 66%;
+    height: 95px;
+    margin-top: -5px;
+    height: 100px;
+    line-height: 10%;
+
+}
+
+.jh {
+    color: white;
+    position: absolute;
+    top: 160px;
+    left: -40px;
+    height: 50px;
+
+
+}
+
+h4 {
+    color: #dbd9d9;
+    font-weight:400;    
+}
+
+h5 {
+    color: #dbd9d9;
+    font-weight: 200;
+}
+    
+
+
+.fca {
+    position: absolute;
+    top: 75px;
+    left:-180px;
+    height: 100px;
+    z-index: 2;
+
+}
+
+.fc{
+    position: absolute;
+    top: 75px;
+    left:-135px;
+    height: 100px;
+    z-index: 2;
+    
+}
+
+.ocho{
+    position: absolute;
+    top: 40px;
+    left:-100px;
+    height: 100px;
+    z-index: 2;
+    color: whitesmoke;
+    
+}
+
+.lc{
+    position: absolute;
+    top: 75px;
+    right:310px;
+    height: 100px;
+    z-index: 2;
+    
+}
+
+.dos{
+    position: absolute;
+    top: 28px;
+    right:285px;
+    height: 100px;
+    z-index: 2;
+}
+
+.flo {
+    position: absolute;
+    top: 65px;
+    right:220px;
+    height: 100px;
+    z-index: 2;
+    
+}
+
+.ta {
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+    height: 50px;
+    
+}
+
+.flw {
+    position: absolute;
+    top: 310px;
+    left: 20px;
+    height: 50px;
+    background-color:#323b3b;
+    border-radius: 35%;
+    color: #fabd16;
+    display: block;
+}
+
+ul li {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    height: 50px;
+    width: 30px;
+    list-style: none;
+    display: inline;
+        
+    
+}
+
+
+.column {
+    float: left;
+    padding: 25px 50px 75px;
+    color: darkgrey;
+    border-image-width: 10px;
+    
+}
+
+.digits {
+    color: #f2f9ff;
+    margin-left: 40px;
+    
+}
+    
+p {
+    color: #a6a7a8;
+    display: inline-block;
+    float: right;
+    padding-left: 5px;
+}
+
+
+
